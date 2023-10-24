@@ -1,0 +1,19 @@
+.contenaire{
+    display: flex;
+}
+.row{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.categories{
+    width: 30%;
+    height: 50px;
+    background-color: red;
+}
+.categories a{
+    text-decoration: none;
+    color: aqua;
+}
